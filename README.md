@@ -23,3 +23,8 @@ Tab inside the () two times gives you all the doc for the python function.
 And you can also share this, you can use notebook convert
     
     $ notebook
+
+###About the Theory
+I am interested in how people articulate they political position. I'm particularly concern with wording in practice, there is a lot of writing and discussion on semantics in Political Science. The real meaning and history of certain words. Never the less common political actor don't normally use words by the book. My hypothesis is that there will be strong correlations with partisanism and words. Even more so I intend to build a model that predicts the position of a congressman a 2 dimensional space built based on an analysis of their votes. 
+
+This repo contains the step by step process of solving this question and will be constantly changing as new patterns emerge from the data. The core of the data is the sunlight API.
